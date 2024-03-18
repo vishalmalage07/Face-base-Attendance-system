@@ -43,7 +43,7 @@ We welcome contributions from the open-source community! Whether you're a develo
 If you have any questions, suggestions, or feedback, please don't hesitate to [contact us](mailto:vishalmalage07@gmail.com).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal malage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal malage" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-malage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal malage" height="30" width="40" /></a>
 <a href="https://kaggle.com/vishalmalage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalmalage" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal__malage_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal__malage_07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@vippublisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vip publisher" height="30" width="40" /></a>
