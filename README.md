@@ -36,7 +36,7 @@ To get started with the Face Recognition Based Attendance System, follow our com
 We welcome contributions from the open-source community! Whether you're a developer, designer, or documentation enthusiast, you can help improve this project.
 
 ## projects
- - 👨‍💻 All of my projects are available at [https://github.com/vishalmalage07](https://github.com/vishalmalage07)
+ - 👨‍💻 All of my projects are available at [here](https://github.com/vishalmalage07)
 
 ## Contact
 
